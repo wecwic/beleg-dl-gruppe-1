@@ -21,4 +21,4 @@ Run this command to automatically install all required libraries (including PyTo
 * `uv pip install -r requirements.txt`
 
 **5. Activate the Environment**
-Open the Jupyter Notebook in VS Code, click "Select Kernel" in the top right, choose the new `.venv` folder, and the code *should* be ready to run. Unless errors pop up... good luck! `:)`
+Open the Jupyter Notebook in VS Code, click "Select Kernel" in the top right, choose the new `.venv` folder, and the code *should* be ready to run. UPDATE FILE PATH. Unless errors pop up... good luck! `:)`
